@@ -25,7 +25,7 @@ git clone https://github.com/MORTEZA-KING-007/FACEBOOK_CRACK.git
 cd FACEBOOK_CRACK
 ```
 ```
-bash setup.sh
+pip install -r requirements.txt
 ```
 ```
 python *.py
