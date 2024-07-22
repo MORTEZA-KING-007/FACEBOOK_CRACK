@@ -1,0 +1,7 @@
+requests
+mechanize
+colorama
+pyfiglet
+bs4
+rich
+futures
