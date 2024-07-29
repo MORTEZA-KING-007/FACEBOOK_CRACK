@@ -2,7 +2,7 @@
 * - Crack Afghanistan facebook accounts
 * - Crack India facebook accounts
 * - Crack Pakistan facebook accounts
-* - Random and file cracking tool
+* - Random and old clone 
 * - All cracked idz save on /sdcard
 * - Follow my github account
 
