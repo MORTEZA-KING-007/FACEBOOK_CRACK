@@ -16,7 +16,7 @@ apt update -y
 apt upgrade -y
 ```
 ```
-apt install git -y
+apt install git toilet espeak -y
 ```
 ```
 git clone https://github.com/MORTEZA-KING-007/FACEBOOK_CRACK.git
