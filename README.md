@@ -1,7 +1,7 @@
 ### FACEBOOK CRACK TOOL FINAL VERSION
-*- EASY TO USE
-*- NO IP BLOCK
-*- FAST AND FREE
+- EASY TO USE
+- NO IP BLOCK
+- FAST AND FREE
 ## INSTALLATION
 ```
 apt update && apt upgrade && apt install python && apt install git
