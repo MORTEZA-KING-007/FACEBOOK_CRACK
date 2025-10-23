@@ -1,5 +1,4 @@
 echo -e '\033[37m[ + ] FACEBOOK CRACKING TOOL BY MORTEZA ALIZADA.......'
-xdg-open https://t.me/black_mafia_007
 
 sleep 5
 
